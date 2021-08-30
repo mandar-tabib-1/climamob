@@ -1,0 +1,6 @@
+pip3 install matplotlib
+pip3 install seaborn
+pip3 install utm
+pip3 install calender
+pip3 install sklearn
+pip3 install sklearn
